@@ -1,0 +1,9 @@
+[package]
+
+name = "tetanus"
+version = "0.0.0"
+authors = ["Arcterus <arcterus@mail.com>"]
+
+[[bin]]
+
+name = "tetanus"

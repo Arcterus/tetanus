@@ -1,0 +1,7 @@
+fn map(iter, closure) {
+   let result = [];
+   for elem in iter {
+      result.push(closure(elem))
+   }
+   result
+}
