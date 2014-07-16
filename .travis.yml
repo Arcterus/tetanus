@@ -1,0 +1,5 @@
+install:
+  - curl -s http://www.rust-lang.org/rustup.sh | sudo sh
+script:
+  - make
+  - target/tetanus
