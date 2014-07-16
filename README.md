@@ -1,4 +1,4 @@
-Tetanus
+Tetanus [![Build Status](https://travis-ci.org/Arcterus/tetanus.svg?branch=master)](https://travis-ci.org/Arcterus/tetanus)
 =======
 
 A Rust-like scripting language written in Rust.  The eventual goal is for
